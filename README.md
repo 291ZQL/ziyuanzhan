@@ -44,7 +44,7 @@ ziyuanzhan/
 
 等待几分钟后，你的监控页面将发布在：
 ```
-https://你的用户名.github.io/ziyuanzhan/
+https://291zql.github.io/ziyuanzhan/
 ```
 
 ### 3. 启用 GitHub Actions
